@@ -1,0 +1,39 @@
+/* responsividade */
+
+@media only screen and (max-width: 900px) {
+  .menu {
+    height: 120px;
+    text-align: right;
+    margin-right: 20px;
+  }
+
+  .menu a {
+    display: block;
+    padding: 5px 10px;
+    margin-top: 5px;
+    font-size: 0.875rem;
+  }
+  .container {
+    max-width: 600px;
+    padding-top: 50px;
+  }
+
+  .footer {
+    font-size: 0.875rem;
+  }
+
+  img {
+    width: 220px;
+    margin-top: 40px;
+  }
+
+  nav {
+    padding-top: 10px;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .container {
+    max-width: 250px;
+  }
+}
