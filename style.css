@@ -20,7 +20,7 @@ img {
 }
 
 input {
-  background-image: url('./img/loupe.svg');
+  background-image: url('loupe.svg');
   background-repeat: no-repeat;
   background-size: 8%;
   background-position-x: 160px;
